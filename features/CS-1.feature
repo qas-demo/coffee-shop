@@ -14,3 +14,4 @@ Feature: Coffee Should Reduce Inventory Count When Purchased
     And I receive it
     Then I expect the inventory count to equal 0
     And I expect coffees to be marked unavailable
+    Then the inventory count of coffees is <condition>
