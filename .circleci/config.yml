@@ -56,4 +56,4 @@ jobs:
           destination: test-results
 notify:
   webhooks:
-    - url: http://pulse.qas-labs.ngrok.io/api/v1/webhooks/ezJo2NRSS4T7SyDDT/ZkfCh8F6XTDrLMfGq/c7865217-a996-44e3-9125-1af927ae984d
+    - url: http://pulse.qas-labs.ngrok.io/api/v1/webhooks/QjiK3kPud5gPy4Sdr/F8awaTEkS2vYoJNR4/1fa05776-435d-47be-814e-463e43176b4b
