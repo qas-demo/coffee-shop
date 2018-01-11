@@ -8,4 +8,3 @@ Feature: Serve coffee
     And I have deposited 1$
     When I press the coffee button
     Then I should be served a coffee
-    
