@@ -1,5 +1,5 @@
 Feature: Serve Another coffee
-  In order to earn extra money
+  In order to earn some extra money
   Customers should be able to 
   buy coffee at all times
 
