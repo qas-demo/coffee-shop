@@ -1,4 +1,4 @@
-Feature: Serve a coffee
+Feature: Serve A Coffee
   In order to earn money
   Customers should be able to 
   buy coffee at all times
